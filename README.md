@@ -162,7 +162,7 @@ The initial Random Forest model was evaluated using an independent 20% random ho
 | Precision – Flood | 1.00 |
 | Recall – Flood | 0.33 |
 | F1-score – Flood | 0.50 |
-| Testing samples | 7 |
+
 
 ### Confusion Matrix
 
@@ -236,7 +236,6 @@ It may also be classified into five susceptibility categories—Very Low, Low, M
 
 The model's reliability depends on the quantity, spatial distribution, temporal relevance, and quality of the historical flood observations and conditioning factors.
 
-The initial test dataset included only seven observations. Consequently, the reported accuracy is sensitive to individual predictions and cannot establish reliable basin-wide model performance.
 
 Furthermore, randomly separated training and testing observations may be spatially correlated, potentially leading to optimistic estimates of predictive performance.
 
