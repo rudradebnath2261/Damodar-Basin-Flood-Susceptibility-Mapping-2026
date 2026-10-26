@@ -19,7 +19,7 @@ from sklearn.metrics import (accuracy_score, classification_report,
                              confusion_matrix, roc_auc_score)
 from sklearn.model_selection import train_test_split
 
-# --------------------------------------------------
+
 # 1. Set up input files and output folder
 
 folder = r"C:\ADAMAS\rdx\Flood_GEOAI_Damodar Basin flood susceptibility map\Flood_GEOAI"
